@@ -37,8 +37,7 @@ Before running the application, make sure you have the following installed on yo
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-url>
-   cd retail-pulse
+   git clone https://github.com/Margesh06/Retail-pulse.git
    ```
 
 2. Download dependencies:
